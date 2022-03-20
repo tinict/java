@@ -1,0 +1,3 @@
+Nguyen Van A; Ha Noi; 0123456789; 1 23 25 30 32 35; Dac biet; 12000000000
+Nguyen Van B; Da Nang; 0123456889; 2 23 25 30 32 35; Nhat; 10000000
+Nguyen Van T; Hue; 0123452869; 10 23 25 30 32 35; Nhat; 10000000
